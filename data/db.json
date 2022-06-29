@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "First Hokage",
+      "body": "Hashirama Senju (千手柱間, Senju Hashirama) was a member of the famed Senju clan. He himself was hailed as the God of Shinobi for his unmatched ninja prowess. Hashirama sought peace for the shinobi world, and to that end founded Konohagakure with his clan, his childhood friend and rival: Madara Uchiha and the Uchiha clan. He would later become the First Hokage (初代火影, Shodai Hokage, literally meaning: First or Founding Fire Shadow) of Konohagakure. Although he was not able to achieve peace during his lifetime, his legacy and vision for the world would continue to shape the village and the entire shinobi world even after his death.",
+      "author": "Omkar ",
+      "id": 1
+    },
+    {
+      "title": "Second Hokage",
+      "body": "obirama Senju, better known as The Second Hokage, is a major character in the Naruto anime and manga. He is the hotheaded younger brother of Hashirama Senju, the First Hokage and the mentor of Hiruzen Sarutobi, the Third Hokage.Many years ago, Tobirama born as the second of Butsuma Senju's four sons. However, two of his younger brothers, Kawarama and Itama were killed by the Uchiha Clan. He fought many times against his archenemy and Madara Uchiha's younger brother, Izuna Uchiha and later killed him for their last battle. After his elder brother Hashirama died, Tobirama became the Second Hokage.",
+      "author": "Naruto",
+      "id": 2
+    },
+    {
+      "title": "Third Hokage",
+      "body": "Hiruzen Sarutobi (猿飛ヒルゼン, Sarutobi Hiruzen) was the Third Hokage (三代目火影, Sandaime Hokage, literally meaning: Third Fire Shadow) of Konohagakure. A disciple of the village's two previous Hokage, Hiruzen was a powerful ninja, hailed as a God of Shinobi. Though he was only ever directly the teacher of the Sannin, generations of Konoha shinobi benefited from his wisdom during his lifetime.",
+      "author": "Naruto",
+      "id": 3
+    },
+    {
+      "title": "Fourth Hokage",
+      "body": "Minato Namikaze (波風ミナト, Namikaze Minato) was the Fourth Hokage (四代目火影, Yondaime Hokage, literally meaning: Fourth Fire Shadow) of Konohagakure. He was renowned all over the world as Konoha's Yellow Flash (木ノ葉の黄色い閃光, Konoha no Kiiroi Senkō, English TV: Yellow Flash of the Leaf). He died during the Nine-Tailed Demon Fox's Attack, sacrificing his life to seal a part of the Nine-Tails into his newborn son, Naruto Uzumaki.",
+      "author": "Omkar ",
+      "id": 4
+    },
+    {
+      "title": "Fifth Hokage",
+      "body": "Tsunade (綱手, Tsunade) is a descendant of the Senju and Uzumaki Clan, and is one of Konohagakure's Sannin. She is famed as the world's strongest kunoichi and its greatest medical-nin. The repeated loss of her loved ones caused Tsunade to later abandon the life of a shinobi for many years. She is eventually persuaded to return to Konoha and take on the mantle of Fifth Hokage (五代目火影, Godaime Hokage, literally meaning: Fifth Fire Shadow), where her skills prove invaluable to the village.",
+      "author": "Naruto",
+      "id": 5
+    },
+    {
+      "title": "Sixth Hokage",
+      "body": "Kakashi Hatake (Japanese: はたけ カカシ, Hepburn: Hatake Kakashi) is a fictional character in the Naruto manga and anime series created by Masashi Kishimoto. In the story, Kakashi is the teacher of Team 7, consisting of the series' primary characters, Naruto Uzumaki, Sasuke Uchiha, and Sakura Haruno. He is initially portrayed as a detached and apathetic figure, but as the series progresses, his loyalty to his friends and students becomes increasingly apparent. Kakashi's past has been extensively explored in the series, resulting in a gaiden being devoted to his past experiences.",
+      "author": "Naruto",
+      "id": 6
+    },
+    {
+      "title": "Seventh Hokage",
+      "body": "Naruto: The Seventh Hokage and the Scarlet Spring (Japanese: NARUTOナルト 外伝 〜七代目火影と緋色の花つ月〜, Hepburn: Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuk) is a spin-off manga written and illustrated by Masashi Kishimoto. Its plot, set shortly after the epilogue of the Naruto series, focuses on Sarada Uchiha, a young ninja in training from a country called Hinokuni (\"Land of Fire\"). Sarada is concerned about the identity of her absent father, Sasuke Uchiha, and whether Sakura Uchiha is her birth mother. Sarada goes on a quest to confirm her origins, during which she confronts a group of people who want to kill her father.",
+      "author": "Omkar",
+      "id": 7
+    }
+  ]
+}
